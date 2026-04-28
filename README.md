@@ -1,2 +1,7 @@
-# demo-barboza-vernengo-abogados
-Demo web para Barboza &amp; Vernengo Abogados — diseñada por eterlab.
+# Barboza & Vernengo Abogados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
